@@ -54,7 +54,3 @@ Note: first run may take a couple of minutes while Playwright downloads Chromium
 - v2: Privacy mode (no metadata).
 - v3-v4: Hybrid PNG/JPEG engine improvements.
 - v5: Smart renaming and removal of trailing blank pages.
-
-```
-
-```

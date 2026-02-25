@@ -38,4 +38,19 @@ python 5_HTML-2-PDF-Python.py
 
 Nota: la primera ejecución puede tardar mientras Playwright descarga Chromium.
 
-[![Read in English](https://img.shields.io/badge/Read%20in%20English-EN-blue?style=flat-square&logo=github)](README.md)
+[![Leer en Inglés](https://img.shields.io/badge/Leer%20en%20Ingl%C3%A9s-EN-blue?style=flat-square&logo=github)](README.md)
+
+## Uso rápido
+
+- Añade archivos HTML usando el botón ➕.
+- Ajusta la calidad JPEG (recomendado ~75%).
+- Opcionalmente elimina los metadatos por privacidad.
+- Elige la carpeta de salida y pulsa Generar.
+
+## Registro de cambios
+
+- v0: Playwright inicial + servidor y auto-scroll.
+- v1: Escalado optimizado para imágenes muy grandes.
+- v2: Modo privacidad (sin metadatos).
+- v3-v4: Mejoras del motor híbrido PNG/JPEG.
+- v5: Renombrado inteligente y eliminación de páginas en blanco finales.
